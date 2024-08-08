@@ -12,3 +12,7 @@ Python 3.11.4
 ----------------
 Flask 3.0.3
 ```
+* 讯飞API调用文档
+```
+https://www.xfyun.cn/doc/spark/WindowsSDK.html#_6-sdk%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE
+```
